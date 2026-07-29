@@ -7,6 +7,7 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -31,4 +32,8 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
