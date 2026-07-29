@@ -17,4 +17,8 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
