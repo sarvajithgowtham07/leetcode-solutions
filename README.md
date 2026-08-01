@@ -42,4 +42,9 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
