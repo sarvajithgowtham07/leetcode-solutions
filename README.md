@@ -26,6 +26,7 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -42,9 +43,14 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
