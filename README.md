@@ -42,15 +42,33 @@ Java Soutions for Leetcode problems
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
