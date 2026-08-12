@@ -10,6 +10,7 @@ Java Soutions for Leetcode problems
 | [0014-longest-common-prefix](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -91,4 +92,8 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
