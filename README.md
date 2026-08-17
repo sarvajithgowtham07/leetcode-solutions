@@ -14,6 +14,7 @@ Java Soutions for Leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -21,11 +22,13 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
@@ -107,4 +110,16 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
