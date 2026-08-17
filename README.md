@@ -13,6 +13,7 @@ Java Soutions for Leetcode problems
 | [0035-search-insert-position](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -102,4 +103,8 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
