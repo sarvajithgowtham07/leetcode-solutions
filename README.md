@@ -18,6 +18,7 @@ Java Soutions for Leetcode problems
 | [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ Java Soutions for Leetcode problems
 | [0001-two-sum](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -133,4 +135,8 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
