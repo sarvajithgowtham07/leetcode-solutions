@@ -16,6 +16,7 @@ Java Soutions for Leetcode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
@@ -71,6 +73,7 @@ Java Soutions for Leetcode problems
 | [0027-remove-element](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
