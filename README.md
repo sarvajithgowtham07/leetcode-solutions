@@ -20,6 +20,7 @@ Java Soutions for Leetcode problems
 | [0217-contains-duplicate](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -117,6 +118,7 @@ Java Soutions for Leetcode problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/sarvajithgowtham07/leetcode-solutions/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
